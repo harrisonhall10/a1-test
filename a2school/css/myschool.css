@@ -1,0 +1,22 @@
+#bannerpic {
+	float: right;
+	margin: 10px 10px 10px 10px;
+	border-style: inset;
+	border-width: 7px;
+	border-color: #000000;
+	padding: 10px;
+	box-shadow: 10px 10px 10px #000000;
+}
+
+.clearlfloat {
+	
+	clear: both;
+
+}
+
+#banner {
+
+	margin: 10px 10px 10px 10px;
+	background: linear-gradient(to right, white , #99ffcc);
+
+}
